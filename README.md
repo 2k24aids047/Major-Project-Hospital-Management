@@ -3,7 +3,7 @@ Hospital Management System
 📌 Project Overview
 MediCare - Advanced Hospital Management System** is a comprehensive web application built using **HTML, CSS, and JavaScript** that simulates a complete hospital ecosystem with role-based access, appointment management, pharmacy integration, AI-powered symptom analysis, and patient record management.
 
- ✨ Key Features Implemented**
+ ✨ Key Features Implemented
 
 1. Multi-Role Authentication System
 3 User Roles:** Patient, Doctor, Admin
